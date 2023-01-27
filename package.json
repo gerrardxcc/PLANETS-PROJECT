@@ -1,0 +1,26 @@
+{
+  "name": "planets-project",
+  "version": "1.0.0",
+  "description": "Exploring Planets With Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gerrardxcc/PLANETS-PROJECT.git"
+  },
+  "keywords": [
+    "NASA",
+    "Kepler"
+  ],
+  "author": "Gerrard Xiong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gerrardxcc/PLANETS-PROJECT/issues"
+  },
+  "homepage": "https://github.com/gerrardxcc/PLANETS-PROJECT#readme",
+  "dependencies": {
+    "csv-parse": "^5.3.3"
+  }
+}
